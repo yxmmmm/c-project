@@ -1,0 +1,1 @@
+{"name":"Luogu - B2023","url":"https://www.luogu.com.cn/problem/B2023","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1761967022597,"input":"a\n12\n2.3\n3.2","output":"a 12 2.300000 3.200000"}],"group":"luogu","srcPath":"/Users/yangxiaomao/c/luogu/Luogu_B_2023.c"}

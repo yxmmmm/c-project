@@ -1,0 +1,1 @@
+{"name":"Luogu - B2020","url":"https://www.luogu.com.cn/problem/B2020","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1761901955877,"input":"8 9 10 11 12","output":"11 7 9 11 6\n6"}],"group":"luogu","srcPath":"/Users/yangxiaomao/c/luogu/Luogu_B_2020.c"}

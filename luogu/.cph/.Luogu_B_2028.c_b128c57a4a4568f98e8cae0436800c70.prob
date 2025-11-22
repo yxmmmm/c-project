@@ -1,0 +1,1 @@
+{"name":"Luogu - B2028","url":"https://www.luogu.com.cn/problem/B2028","memoryLimit":131072,"timeLimit":1000,"tests":[{"input":"100","output":"001","id":1761978241138},{"input":"001","output":"100","id":1761978241139},{"input":"678","output":"876","id":1761978241140}],"group":"luogu","srcPath":"/Users/yangxiaomao/c/luogu/Luogu_B_2028.c"}

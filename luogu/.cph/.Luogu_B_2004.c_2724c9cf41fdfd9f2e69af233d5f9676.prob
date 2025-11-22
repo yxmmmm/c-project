@@ -1,0 +1,1 @@
+{"name":"Luogu - B2004","url":"https://www.luogu.com.cn/problem/B2004","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1761814289395,"input":"123456789 0 -1\n","output":"123456789        0       -1\n"}],"group":"luogu","srcPath":"/Users/yangxiaomao/c/luogu/Luogu_B_2004.c"}
