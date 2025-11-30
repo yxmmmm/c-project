@@ -5,7 +5,7 @@ int gys(int m, int n){
     min=m;
     else
     min=n;
-    for(int i=2;i<=min;i++){
+    for(int i=1;i<=min;i++){
        if(m%i==0&&n%i==0)
        temp=i;
     }
