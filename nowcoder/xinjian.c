@@ -13,18 +13,20 @@ long long g(int m){
     return j;
 }
 int main(void){
-    int T, d[T];
+    int T;
     scanf("%d", &T);
+    int d[T];
     for(int i = 0; i < T; i++)
     scanf("%d", &d[i]);
-    int t, strlen, temp;
+    int t, strlen=0;
+    long long temp;
     for(int p = 0; p < T; p++){
         temp = g(p);
         while (temp > 0) {
             strlen++;
             temp /= 10;
         }
-        t = g(p) % (int)pow(10, strlen);
+        t = g(p) % (long long)pow(10, strlen);
         printf("%d", t);
     }
 }
