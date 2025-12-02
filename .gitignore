@@ -1,3 +1,37 @@
+# ========== 系统文件 ==========
 .DS_Store
-*.tmp
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========== 编译输出文件 ==========
+# 通用Unix/Linux/macOS可执行文件和对象文件
+*.exe
+*.out
+*.o
+*.dylib
+*.so
+*.bin
+exec*
+a.out
+
+# 你的集中输出目录
+bin/
+
+# ========== IDE/编辑器文件 ==========
+# VSCode配置（如果需要分享项目，通常不提交）
+.vscode/*
+!.vscode/tasks.json   # 如果你希望共享tasks配置，可以保留这一行
+!.vscode/launch.json
+
+# 其他IDE
+.idea/
+*.swp
+*.swo
+
+# ========== 日志与临时文件 ==========
 *.log
+*.tmp
+*.temp
